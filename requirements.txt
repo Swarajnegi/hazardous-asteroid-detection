@@ -6,3 +6,5 @@ autoviz
 scikit-learn
 tensorflow
 keras
+ipykernel
+imblearn
